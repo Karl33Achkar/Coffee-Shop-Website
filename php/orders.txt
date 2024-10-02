@@ -1,0 +1,14 @@
+Espresso: 3
+Hot Mocha: 2
+Latte: 1
+Hot Mocha: 1
+Hot Mocha: 2
+Cappuccino: 2
+Americano: 3
+Espresso: 8
+Americano: 20
+Hot Mocha: 1
+Latte: 2
+Hot Mocha: 3
+Latte: 2
+Cappuccino: 1
